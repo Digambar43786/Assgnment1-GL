@@ -1,4 +1,4 @@
-package department;
+
 import department.*;
 class AdminDepartment extends SuperDepartment
 {
